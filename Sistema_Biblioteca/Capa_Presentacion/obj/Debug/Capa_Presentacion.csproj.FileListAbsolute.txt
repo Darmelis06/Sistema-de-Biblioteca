@@ -1,0 +1,40 @@
+C:\Users\Raphy L. Nuñez\Desktop\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe.config
+C:\Users\Raphy L. Nuñez\Desktop\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe
+C:\Users\Raphy L. Nuñez\Desktop\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\Raphy L. Nuñez\Desktop\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Raphy L. Nuñez\Desktop\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.csprojAssemblyReference.cache
+C:\Users\Raphy L. Nuñez\Desktop\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\MainPage.Form2.resources
+C:\Users\Raphy L. Nuñez\Desktop\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\formularios1.estudiantes.resources
+C:\Users\Raphy L. Nuñez\Desktop\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.Estudiantes_Registrados.resources
+C:\Users\Raphy L. Nuñez\Desktop\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.Historial_Prestamos.resources
+C:\Users\Raphy L. Nuñez\Desktop\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.Libros_Registrados.resources
+C:\Users\Raphy L. Nuñez\Desktop\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Login.Form1.resources
+C:\Users\Raphy L. Nuñez\Desktop\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\MainPage.Mainpage1.resources
+C:\Users\Raphy L. Nuñez\Desktop\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\formularios1.RegistroEstudiantes.resources
+C:\Users\Raphy L. Nuñez\Desktop\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+C:\Users\Raphy L. Nuñez\Desktop\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\formularios1.Registro_de_libros.resources
+C:\Users\Raphy L. Nuñez\Desktop\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\Raphy L. Nuñez\Desktop\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Raphy L. Nuñez\Desktop\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CopyComplete
+C:\Users\Raphy L. Nuñez\Desktop\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.exe
+C:\Users\Raphy L. Nuñez\Desktop\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
+C:\Users\Raphy L. Nuñez\Downloads\Sistema para biblioteca\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe.config
+C:\Users\Raphy L. Nuñez\Downloads\Sistema para biblioteca\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe
+C:\Users\Raphy L. Nuñez\Downloads\Sistema para biblioteca\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\Raphy L. Nuñez\Downloads\Sistema para biblioteca\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Raphy L. Nuñez\Downloads\Sistema para biblioteca\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.csprojAssemblyReference.cache
+C:\Users\Raphy L. Nuñez\Downloads\Sistema para biblioteca\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.Form2.resources
+C:\Users\Raphy L. Nuñez\Downloads\Sistema para biblioteca\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.estudiantes.resources
+C:\Users\Raphy L. Nuñez\Downloads\Sistema para biblioteca\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.Estudiantes_Registrados.resources
+C:\Users\Raphy L. Nuñez\Downloads\Sistema para biblioteca\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.Historial_Prestamos.resources
+C:\Users\Raphy L. Nuñez\Downloads\Sistema para biblioteca\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.Libros_Registrados.resources
+C:\Users\Raphy L. Nuñez\Downloads\Sistema para biblioteca\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.Form1.resources
+C:\Users\Raphy L. Nuñez\Downloads\Sistema para biblioteca\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.Mainpage1.resources
+C:\Users\Raphy L. Nuñez\Downloads\Sistema para biblioteca\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.RegistroEstudiantes.resources
+C:\Users\Raphy L. Nuñez\Downloads\Sistema para biblioteca\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+C:\Users\Raphy L. Nuñez\Downloads\Sistema para biblioteca\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.Registro_de_libros.resources
+C:\Users\Raphy L. Nuñez\Downloads\Sistema para biblioteca\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\Raphy L. Nuñez\Downloads\Sistema para biblioteca\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Raphy L. Nuñez\Downloads\Sistema para biblioteca\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CopyComplete
+C:\Users\Raphy L. Nuñez\Downloads\Sistema para biblioteca\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.exe
+C:\Users\Raphy L. Nuñez\Downloads\Sistema para biblioteca\Sistema para biblioteca\Sistema_Biblioteca\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
